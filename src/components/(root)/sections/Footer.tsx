@@ -10,16 +10,13 @@ const Footer = () => {
         </h4>
         <ul className="space-y-2 text-end *:*:transition-colors hover:*:*:text-secondary">
           <li>
-            <a href="#">Instagram</a>
-          </li>
-          <li>
             <a href="#">Linkedin</a>
           </li>
           <li>
-            <a href="#">Twitter</a>
+            <a href="#">GitHub</a>
           </li>
           <li>
-            <a href="#">GitHub</a>
+            <a href="#">Instagram</a>
           </li>
         </ul>
       </div>

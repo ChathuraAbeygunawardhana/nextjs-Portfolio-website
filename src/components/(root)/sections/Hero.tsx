@@ -52,16 +52,16 @@ const Hero = () => {
         id="overlay"
       ></div>
       <div className="z-10 select-none">
-        <h1 className="text-center text-[12rem] font-semibold leading-[0.85] tracking-tight *:block max-md:text-7xl">
+        <h1 className="text-center text-[6rem] font-semibold leading-[0.85] tracking-tight *:block max-md:text-4xl">
           <span className="text-nowrap" id="firstname">
-            Pi
+            Ch
             <span className="inline-flex" id="firstname-i">
-              x
+              a
             </span>
-            el
+            thura
           </span>
           <span className="" id="lastname">
-            Wizard
+            Abeygunawardhana
           </span>
         </h1>
       </div>

@@ -55,14 +55,14 @@ const projects = [
     dateCompleted: "2023-07-10",
   },
   {
-    name: "Space tourism",
-    imgUrl: "/images/projects/space-tourism.png",
+    name: "Realtime Chat Application",
+    imgUrl: "/images/projects/chatAppImg.png",
     projectType: "web" as "web",
     status: "completed" as "completed",
     liveUrl: "https://space-tourism-theta-eight.vercel.app/",
-    technologies: ["HTML", "CSS", "JavaScript", "React", "Vercel"],
+    technologies: ["React", "Tailwind CSS", "JavaScript", "Vercel"],
     description:
-      "A space tourism website offering details on destinations and experiences for space travel, featuring interactive UI.",
+      "This was a chatting application that I created for my portfolio . Through this , users can chat with eachother and watch their online status as well .",
     features: [
       "Dynamic content",
       "User-friendly interface",
@@ -75,15 +75,15 @@ const projects = [
     dateCompleted: "2023-08-15",
   },
   {
-    name: "Easybank",
-    imgUrl: "/images/projects/easy-bank.png",
+    name: "ExploreLanka",
+    imgUrl: "/images/projects/ExploreLanka.png",
     projectType: "web" as "web",
     status: "completed" as "completed",
     liveUrl: "https://darkx-dev.github.io/easy-bank-landing-page/",
-    repoUrl: "https://github.com/Darkx-dev/easy-bank-landing-page/",
-    technologies: ["HTML", "CSS", "JavaScript"],
+    repoUrl: "https://github.com/ChathuraAbeygunawardhana/S2Nx_ExploreLanka",
+    technologies: ["Next.js", "Tailwind CSS", "Node.js"],
     description:
-      "A landing page for Easybank, designed to promote digital banking services with a modern, responsive layout.",
+      "An exploration website for the foreigners who come to Sri Lanka. This includes a visa approval process to validate the incoming foreingers.",
     features: ["Interactive UI", "Modern design", "Fast load times"],
     challenges: [
       "Building responsive layouts",
